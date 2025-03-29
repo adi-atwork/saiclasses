@@ -130,7 +130,7 @@ export default function Footer() {
             </h3>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://www.facebook.com/saiclassesgzb/"
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
                 <span className="sr-only">Facebook</span>
@@ -147,7 +147,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/saiclassesgzb/"
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
                 <span className="sr-only">Instagram</span>
